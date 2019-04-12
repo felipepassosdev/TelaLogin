@@ -1,0 +1,28 @@
+.divAgradecimento {
+    z-index: 9999;
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(243, 33, 33), rgb(151, 0, 151));
+    color: white;
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+}
+
+.sectionone {
+    background-color: #fafafa;
+    margin-top: 15%;
+    padding: 0%;
+    width: 35%;
+}
+#inputEmail4{
+    border-radius: 25px;
+}
+#inputPassword4{
+    border-radius: 25px;
+}
+.logo{
+    width: 22%;
+}
